@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Positionsize.css";
+import "./IntradayCalculator.css";
 
 const PositionSize = () => {
   const [capital, setCapital] = useState(100000);
