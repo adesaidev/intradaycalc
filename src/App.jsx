@@ -1,9 +1,9 @@
 import IntradayCalculator from "./components/IntradayCalculator";
-
+import Positionsize from "./components/Positionsize";
 function App() {
   return (
     <>
-      <IntradayCalculator></IntradayCalculator>
+      <Positionsize></Positionsize>
     </>
   );
 }
